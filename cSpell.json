@@ -1,0 +1,10 @@
+{
+    "words": [
+        "Wellnitz"
+    ],
+    "enableFiletypes": [
+        "dockerfile",
+        "shellscript",
+        "toml"
+    ]
+}
