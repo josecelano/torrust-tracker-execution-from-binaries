@@ -1,0 +1,7 @@
+
+.env
+**/*.rs.bk
+/.coverage/
+/.idea/
+/.vscode/launch.json
+/storage/
